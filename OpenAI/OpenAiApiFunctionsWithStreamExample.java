@@ -1,4 +1,4 @@
-package example;
+package com.theokanning.openai;
 
 import com.theokanning.openai.completion.chat.*;
 import com.theokanning.openai.service.FunctionExecutor;
